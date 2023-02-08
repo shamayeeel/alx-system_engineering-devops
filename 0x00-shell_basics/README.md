@@ -1,1 +1,1 @@
-Move files
+Delete file
