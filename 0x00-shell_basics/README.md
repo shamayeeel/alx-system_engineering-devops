@@ -1,1 +1,1 @@
-Delete file 2
+Change work directory to the previous one
