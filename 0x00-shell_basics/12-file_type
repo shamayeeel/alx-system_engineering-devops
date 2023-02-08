@@ -1,0 +1,2 @@
+#!/bin/bash
+the file /tmp/iamafile is of type: $file_type
