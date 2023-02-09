@@ -1,1 +1,1 @@
-script that changes the owner of the file
+To create a file
