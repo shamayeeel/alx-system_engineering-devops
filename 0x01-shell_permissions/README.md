@@ -1,1 +1,1 @@
-To  execute permission to the owner of the file
+Write a script that sets the permission to the file
